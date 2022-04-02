@@ -1,0 +1,12 @@
+diff --git a/techweek.py b/techweek.py
+index 9477bf4..6fbb327 100644
+--- a/techweek.py
++++ b/techweek.py
+@@ -3,3 +3,7 @@ print("Hello Colgate")
+ 
+ print("This is my first time contributing to open source!")
+ 
++
++print("amended this")
++
++print("patch file")
